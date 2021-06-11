@@ -1,7 +1,7 @@
 # Salbeghi-Selvadeghi
 Pogetta Matteo, Berlato Matteo, Thiella Matteo, Grendene Marco 2020
 
-New "Marilù" and at the same time new robot "-", codes and projects,
+New "Marilù" and at the same time new robot "Kodi", codes and projects,
 for 2020-2021 junior robocup competitions, maze category.
 
 The design of the second robot was born from the idea of completely changing hardwere,
